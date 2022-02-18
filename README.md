@@ -1,3 +1,3 @@
 Rocketnews
 
-Página Rocketnews do desafio da Rocketseat
+Página Rocketnews do desafio Discover da Rocketseat
